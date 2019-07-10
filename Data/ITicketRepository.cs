@@ -8,5 +8,6 @@ namespace Alıştırma.Data
 {
     public interface ITicketRepository : IRepository<Ticket>
     {
+
     }
 }
